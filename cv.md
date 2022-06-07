@@ -6,3 +6,6 @@
 * Discord: ластрмдхиро#2553
 * GitHub: https://github.com/nztoff
 * vk.com: https://vk.com/lastrmdhero
+
+## About myself
+**I am a future frontend developer my main trait is to never give up !!!**
